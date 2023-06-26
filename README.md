@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanwhyu
 - 👀 I’m interested in environmental science, sustainable causes, and biochemistry!
-- 🌱 I’m currently a beginner learning to program in Python.
+- 🌱 I’m currently a beginner learning to program in Python & R and learning exploratory data analysis
 - 📫 Reach me at ethanwyu@utexas.edu
 
 <!---
